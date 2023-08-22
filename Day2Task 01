@@ -1,0 +1,13 @@
+# Day-2-Task
+
+// whats is the diffrence between the document object and window object
+
+Windows
+1 : The window is the frst thing that get loaded into the browser 
+2 : the window object has majority of properties like lenght, innerWidth,
+   innerHeight, name , if it has been closed its parents and more
+
+Document object
+1 : The Document object is your html , aspx , php or other document that will be loaded into the browser
+2 : the document get loaded into inside the window oject and has properties available to it like title ,URL cookie etc 
+3 : 
